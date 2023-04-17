@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com React
 ## 💻 Projeto
 
 Introdução:
-Este projeto tem como objetivo criar uma aplicação web em React para uma pizzaria que exibe uma lista de pizzas e permite que o usuário selecione e adicione as pizzas escolhidas em um carrinho de compras. O projeto tem como objetivo ensinar o uso de setState, props e componentes em React.
+Este projeto teve como objetivo criar uma aplicação web em React para uma pizzaria que exibe uma lista de pizzas e permite que o usuário selecione e adicione as pizzas escolhidas em um carrinho de compras. O projeto tem como objetivo ensinar o uso de setState, props e componentes em React.
 
 Desenvolvimento:
 O projeto foi criado seguindo as melhores práticas de desenvolvimento em React. Primeiramente, o ambiente de desenvolvimento foi configurado usando Create React App. Em seguida, foram criados componentes para exibir a lista de pizzas, exibir informações sobre as pizzas individuais disponíveis. As informações das pizzas foram obtidas por meio de um componente simulando uma API ou Banco de dados.

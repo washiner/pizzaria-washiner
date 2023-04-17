@@ -5,9 +5,8 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-<a align="center"> 
+
 ![pizzaria](https://user-images.githubusercontent.com/50848988/232349451-f6d48639-645d-4b5e-a893-87322b70e1b2.gif)
-</a>
 
 <br>
 

@@ -11,7 +11,7 @@
 <br>
 
 <p align="center"> Para visualizar o projeto no seu navegador:
-  <a href="https://friendly-crostata-2753ab.netlify.app/" target="_blank"> Click Aqui <a/>
+  <a href="https://pizzaria-washiner.netlify.app/"> Click Aqui <a/>
 </p>
 
 <br>
